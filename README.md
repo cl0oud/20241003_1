@@ -33,6 +33,9 @@ This is a test work from Web Department of Unigine Company.
 	/send
 		{"url":"url_1728029188_2290","hash":"17280291883190"}
 8. задание 5 info()      /src/Controller/UrlController.php + /src/Repository/UrlRepository.php
+	/info
+		{"total":"113"}
+		
 	/info?unique&date1=20241004000000&date2=20241004240000
 		[{"id":113,"url":"url_1728029188_2290","hash":"17280291883190","date":"20241004150628"},{"id":112,"url":"test1.ru","hash":"17280194762562","date":"20241004122436"},{"id":111,"url":"url_1728016055_9121","hash":"17280160553587","date":"20241004112735"},{"id":110,"url":"1","hash":"17280128966282","date":"20241004103456"}]
 		
